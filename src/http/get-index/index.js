@@ -50,7 +50,7 @@ exports.handler = async function http (req) {
     <div class="margin-left-8">
       <div class="margin-bottom-16">
         <h1 class="margin-bottom-16">
-          Hello from Node.js!
+          Praise Cage!
         </h1>
         <p class="margin-bottom-8">
           Get started by editing this file at:
